@@ -1,6 +1,7 @@
-# vue-i18n-work
+# vue-i18n-alpha-repro
 
-> A Vue.js project
+> :warning: This repository is reproduction repository for vue-i18n v6.0.0-alpha
+> :paperclip: https://github.com/kazupon/vue-i18n/issues/118
 
 ## Build Setup
 
